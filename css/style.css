@@ -1,0 +1,11 @@
+p{
+    color: white;
+    background: red;
+    font-size: 50px;
+    font-style:italic;
+}
+#box{
+    height: 100px;
+    width :100px;
+    background:green;
+}
